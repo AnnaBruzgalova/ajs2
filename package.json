@@ -1,23 +1,23 @@
 {
-    "name": "ajs2",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node src/index.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/AnnaBruzgalova/ajs2.git"
-    },
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/AnnaBruzgalova/ajs2/issues"
-    },
-    "homepage": "https://github.com/AnnaBruzgalova/ajs2#readme",
-    "description": "",
-    "dependencies": {
-        "@annabruzgalova/ajs": "github:annabruzgalova/ajs"
-    }
+  "name": "ajs2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaBruzgalova/ajs2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaBruzgalova/ajs2/issues"
+  },
+  "homepage": "https://github.com/AnnaBruzgalova/ajs2#readme",
+  "dependencies": {
+    "@annabruzgalova/ajs": "github:annabruzgalova/ajs"
+  },
+  "description": ""
 }
